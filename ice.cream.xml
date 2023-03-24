@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<icecreams>
+  <flavor>
+    <name>Chocolate</name>
+    <brand>Baskin Robbins</brand>
+    <location>USA</location>
+    <price>$5</price>
+    <nutritions>
+      <calories>33</calories>
+      <fat>15</fat>
+      <saturated>8g </saturated>
+      <cholesterol>12g</cholesterol>
+      <sodium>50mg</sodium>
+    </nutritions>
+  </flavor>
+
+  <flavor>
+    <name>Clasic Vanilla</name>
+    <brand>Bourbon Vanilla</brand>
+    <location>USA</location>
+    <price>$24</price>
+    <nutritions>
+    <calories>3.3g</calories>
+    <fat>2.3g</fat>
+    <saturated>2.1</saturated>
+     <cholesterol>12g</cholesterol>
+     <sodium>50mg</sodium>
+    </nutritions>
+  </flavor>
+
+   <flavor>
+    <name>Butter Pecan</name>
+    <brand>Haagen Dazs</brand>
+    <location>USA</location>
+    <price>$13</price>
+    <nutritions>
+    <calories>244</calories>
+    <fat>18%</fat>
+    <saturated>35%</saturated>
+     <cholesterol>25mg%</cholesterol>
+     <sodium>115mg</sodium>
+    </nutritions>
+  </flavor>
+
+ <flavor>
+    <name> Clasic Chocolate</name>
+    <brand>Nestle</brand>
+    <location>USA</location>
+    <price>$24</price>
+    <nutritions>
+    <calories>110</calories>
+    <fat>12g</fat>
+    <saturated>15mg</saturated>
+     <cholesterol>120cal</cholesterol>
+     <sodium>50mg</sodium>
+    </nutritions>
+  </flavor>
+
+
+ <flavor>
+    <name>Classic Vanilla</name>
+    <brand>Tillamok</brand>
+    <location>USA</location>
+    <price>$8</price>
+    <nutritions>
+    <calories>120cal</calories>
+    <fat>12g</fat>
+    <saturated>95%</saturated>
+     <cholesterol>110cal</cholesterol>
+     <sodium>50mg</sodium>
+    </nutritions>
+  </flavor>
+</icecreams>
